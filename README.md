@@ -17,14 +17,6 @@ Um dashboard interativo desenvolvido com **Vue.js 3** e **Vite**...
 * **Filtro de Conteúdo Dinâmico:** Busca em tempo real (Live Search) utilizando **Computed Properties** para filtrar uma base de dados de livros.
 * **Gerador de Citações:** Consumo de lógica interna para exibição aleatória de frases inspiradoras com manipulação de ciclo de vida (`mounted`).
 
-## 🛠️ Tecnologias e Conceitos Aplicados
-
-* **Vue.js 3 (Composition & Options API):** Uso versátil das duas principais formas de escrever Vue.
-* **Vite:** Build tool de alta performance.
-* **Reatividade:** Manipulação de estado com `ref`, `data` e `v-model`.
-* **CSS Scoped:** Estilização isolada para garantir que o layout de um componente não afete os outros.
-* **Diretivas Vue:** Uso avançado de `v-for`, `v-if`, `v-bind` e `@click`.
-
 ## 📦 Como Executar o Projeto
 
 1. Clone o repositório:
@@ -46,7 +38,3 @@ Um dashboard interativo desenvolvido com **Vue.js 3** e **Vite**...
    ```bash
    npm run dev
    ```
-
-
-
-  
