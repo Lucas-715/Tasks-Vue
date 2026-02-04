@@ -32,7 +32,7 @@ Um dashboard interativo desenvolvido com **Vue.js 3** e **Vite**...
 
 3. Instale as dependências:
    ```bash
-     npm install
+   npm install
    ```
 
 4. Inicie o ambiente de desenvolvimento:
